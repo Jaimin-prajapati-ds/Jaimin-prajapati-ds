@@ -52,7 +52,7 @@ End-to-end pipeline for predicting telecom customer churn
 ## Let's Connect
 
 - 📧 Email: jaimin119p@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/jaimin-prajapati)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/jaimin-prajapati-55152b39a/)
 - 📂 Portfolio: Building it... coming soon!
 
 ---
