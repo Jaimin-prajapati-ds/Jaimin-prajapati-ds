@@ -4,7 +4,7 @@
 
 ### 🚀 Data Scientist in the Making | ML Engineer | Building Production-Ready AI Solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimin-prajapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimin-prajapati-55152b39a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimin119p@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaimin-prajapati-ds)
 
@@ -136,7 +136,7 @@ I'm always excited to collaborate on interesting ML projects or discuss data sci
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jaimin119p%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:jaimin119p@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaimin-prajapati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jaimin-prajapati-55152b39a)
 
 </div>
 
