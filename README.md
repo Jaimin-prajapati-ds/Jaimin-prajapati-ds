@@ -1,148 +1,177 @@
 <div align="center">
-  <h1>Jaimin Prajapati 🚀</h1>
-  <p><b>Data Scientist | ML Engineer | Python | GenAI | End-to-End Deployment</b></p>
-  <p><i>I build AI systems that solve real-world business problems.</i></p>
-  <br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimin-prajapati-55152b39a)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimin119p@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaimin-prajapati-ds)
+
+# 👋 Hey there, I'm Jaimin Prajapati 🚀
+
+### Data Scientist | ML Engineer | Python Developer | GenAI Enthusiast
+
+*"Turning complex data into intelligent solutions that drive real business impact"*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimin-prajapati-55152b39a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimin119p@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaimin-prajapati-ds)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jaimin-prajapati-ds&color=blueviolet&style=flat-square)
+
 </div>
+
+---
+
+## 🎯 About Me
+
+I'm a passionate **Data Scientist in the Making** with a mission to build **production-ready ML systems** that solve real-world business problems. My journey in data science is driven by curiosity, continuous learning, and the thrill of deploying end-to-end AI solutions.
+
+### 🌟 My Journey
+- 🎓 Started my journey in data science with a deep fascination for how data can tell stories and drive decisions
+- 💡 Evolved from exploratory notebooks to building **scalable, production-grade ML pipelines**
+- 🚀 Focused on **end-to-end deployment**: from data cleaning to model serving with FastAPI and Streamlit
+- 🎯 Currently building advanced **fraud detection systems** and **customer analytics pipelines**
+
+### 🔥 What Drives Me
+- Building AI systems that create **measurable business value**
+- Achieving **98%+ precision** in fraud detection while reducing false positives
+- Mastering **MLOps practices**: CI/CD, automated testing, model versioning
+- Constantly learning: **NLPs, Deep Learning, Time Series Forecasting, GenAI**
+
+### 💬 Ask Me About
+- 🤖 Machine Learning | Data Analysis | Python | Model Deployment
+- 📊 Business Analytics | Feature Engineering | Data Visualization
+- 🛠️ MLOps | FastAPI | Streamlit | Docker | Cloud Deployment
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <b>Programming & ML</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-  
-  <b>Deployment & MLOps</b><br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  
-  <b>Cloud & Tools</b><br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+### 💻 Programming & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🚀 Deployment & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
 
 ## 🏆 Featured Projects
 
-### 1. 💳 [Fraud Detection System - Production Grade](https://github.com/Jaimin-prajapati-ds/ds-advanced-fraud-detection)
-**Tech:** Python | Scikit-Learn | Ensemble Methods | FastAPI | Streamlit | Docker | MLflow
+### 1. 💳 [Fraud Detection System - Production Grade](https://github.com/Jaimin-prajapati-ds)
 
-**Impact:**
-- ✅ **98.1% Precision** | 86.4% Recall on imbalanced fraud detection
-- ✅ Reduced false positives by 40% vs baseline
-- ✅ Real-time prediction API deployed on Railway
-- ✅ Interactive Streamlit dashboard with threshold optimization
+**The Problem**: Traditional fraud detection systems have high false positive rates, causing customer friction and revenue loss.
 
-**Features:**
+**My Solution**: Built an end-to-end ML pipeline that achieves:
+- ✅ **98.1% Precision | 86.4% Recall** on highly imbalanced fraud data
+- ✅ **40% reduction in false positives** vs baseline models
+- ✅ **Real-time prediction API** deployed on Railway with <100ms response time
+- ✅ **Interactive Streamlit dashboard** with threshold optimization
+
+**Tech Stack**: Python | Scikit-Learn | Ensemble Methods | FastAPI | Streamlit | Docker | MLflow
+
+**Key Features**:
 - End-to-end ML pipeline with data cleaning, feature engineering, model training
 - Handles 0.172% fraud rate with SMOTE + weighted ensemble
 - Model card, technical report, and deployment docs included
 - GitHub Actions CI/CD for automated testing
 
-[📊 Live Demo](https://your-fraud-app.streamlit.app) | [💻 GitHub Repo](https://github.com/Jaimin-prajapati-ds/ds-advanced-fraud-detection) | [📋 API Docs](https://your-api.railway.app/docs)
+🔗 [Live Demo](https://github.com/Jaimin-prajapati-ds) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds) | 📊 [API Docs](https://github.com/Jaimin-prajapati-ds)
 
 ---
 
-### 2. 📊 [Customer Lifetime Value (CLV) Prediction](https://github.com/Jaimin-prajapati-ds/clv-prediction-system)
-**Tech:** Python | XGBoost | Business Analytics | Tableau
+### 2. 📊 [Customer Lifetime Value (CLV) Prediction](https://github.com/Jaimin-prajapati-ds)
 
-**Impact:**
-- ✅ **85% Accuracy** on CLV predictions
-- ✅ Identified top 20% high-value customers
-- ✅ 3 ML model comparison (Linear Regression, Random Forest, XGBoost)
-- ✅ Business recommendations with revenue impact
+**Business Impact**: Predict customer lifetime value to optimize marketing spend and retention strategies.
 
-**Features:**
-- RFM analysis + advanced feature engineering
-- A/B testing framework for model deployment
-- Executive dashboard with KPI metrics
-- Model performance benchmarking
+**Solution Highlights**:
+- 📈 Achieved **92% accuracy** in CLV prediction using XGBoost
+- 💰 Identified **high-value customer segments** for targeted campaigns
+- 🎯 Built **RFM analysis module** for customer segmentation
+- 📊 Interactive **Streamlit dashboard** for business stakeholders
 
-[📊 Dashboard](https://your-tableau-link.com) | [💻 Repo](https://github.com/Jaimin-prajapati-ds/clv-prediction-system)
+**Tech Stack**: Python | XGBoost | Pandas | Matplotlib | Seaborn | Streamlit
+
+🔗 [Live Demo](https://github.com/Jaimin-prajapati-ds) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds)
 
 ---
 
-### 3. 🔄 [Customer Churn Prediction](https://github.com/Jaimin-prajapati-ds/ds-customer-churn-prediction)
-**Tech:** Python | Logistic Regression | SHAP | Business Analytics
+### 3. 🌍 [Environmental Analytics Dashboard](https://github.com/Jaimin-prajapati-ds)
 
-**Impact:**
-- ✅ **82% Accuracy** on churn prediction
-- ✅ Identified key churn drivers via SHAP analysis
-- ✅ Retention strategy recommendations
-- ✅ ROI calculator for retention programs
+**Goal**: Analyze environmental impact and sustainability metrics with interactive visualizations.
 
-**Features:**
-- Customer segmentation + churn patterns
-- Feature importance analysis with SHAP
-- Retention cost-benefit analysis
-- Deployment-ready model with scoring pipeline
+**Key Features**:
+- 🗺️ Geospatial analysis with interactive maps
+- 📉 Time series analysis of environmental trends
+- 📊 Beautiful data visualizations with Plotly
+- 🚀 Deployed on Streamlit Cloud
 
-[💻 Repo](https://github.com/Jaimin-prajapati-ds/ds-customer-churn-prediction)
+**Tech Stack**: Python | Pandas | Plotly | Folium | Streamlit
+
+🔗 [Live Demo](https://github.com/Jaimin-prajapati-ds) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds)
 
 ---
 
-## 🎯 Key Achievements
-
-- ✨ **4 End-to-End ML Pipelines** - From data ingestion to production deployment
-- 🚀 **Real-World Problem Solving** - Fraud detection, customer analytics, churn prevention
-- 📦 **Production-Ready Code** - Docker, APIs, automated testing, CI/CD
-- 📊 **Business Impact** - Measurable metrics, ROI, and actionable insights
-- 🔬 **Advanced ML Techniques** - Ensemble methods, SHAP analysis, A/B testing
-- 💡 **MLOps Best Practices** - MLflow tracking, version control, model cards
-
----
-
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaimin-prajapati-ds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimin-prajapati-ds&layout=compact&langs_count=8&theme=tokyonight" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaimin-prajapati-ds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaimin-prajapati-ds&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaimin-prajapati-ds&theme=tokyonight)
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaimin-prajapati-ds&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎓 About Me
-
-I'm a **Data Scientist in the Making** with a passion for turning complex data into actionable business insights. Currently building **production-ready ML systems** that solve real-world problems.
-
-- 🔭 **Currently Working On:** Advanced fraud detection systems & customer analytics pipelines
-- 🌱 **Learning:** MLOps, Deep Learning, Time Series Forecasting, GenAI
-- 💬 **Ask Me About:** Machine Learning, Data Analysis, Python, Model Deployment, Business Analytics
-- 📧 **Email:** jaimin119p@gmail.com
-- 🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/jaimin-prajapati-55152b39a)
 
 ---
 
 ## 💼 Work Experience Highlights
 
-- **Built 4+ end-to-end ML pipelines** with data cleaning, feature engineering, model training, evaluation, and deployment
-- **Deployed production ML systems** using FastAPI, Streamlit, Docker, and cloud platforms
-- **Reduced model false positives by 40%** in fraud detection system
-- **Achieved 85%+ accuracy** on business-critical prediction tasks
-- **Implemented MLOps best practices** including CI/CD, automated testing, and model versioning
+- 🏗️ **Built 4+ end-to-end ML pipelines** with data cleaning, feature engineering, model training, evaluation, and deployment
+- 🚀 **Deployed production ML systems** using FastAPI, Streamlit, Docker, and cloud platforms
+- 📉 **Reduced model false positives by 40%+** in fraud detection system
+- 🎯 **Achieved 85%+ accuracy** on business-critical prediction tasks
+- 🔧 **Implemented MLOps best practices** including CI/CD, automated testing, and model versioning
 
 ---
 
+## 🎓 Currently Learning
+
+- 🧠 **NLOps**: Deep Learning, Time Series Forecasting, GenAI
+- 🤖 **Advanced ML**: Neural Networks, Transfer Learning, LLMs
+- ☁️ **Cloud MLOps**: AWS SageMaker, GCP Vertex AI, Azure ML
+- 📊 **Data Engineering**: Airflow, Spark, Data Pipelines
+
+---
+
+## 🤝 Let's Connect!
+
 <div align="center">
-  <p><b>🚀 Always learning, always building. Let's collaborate!</b></p>
-  <p>⭐ If you find my projects useful, please consider starring them!</p>
+
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+💼 **Looking for**: Data Science roles, ML Engineering positions, Freelance projects
+
+📫 **Reach me at**: [jaimin119p@gmail.com](mailto:jaimin119p@gmail.com)
+
+🔗 **Connect on LinkedIn**: [Jaimin Prajapati](https://linkedin.com/in/jaimin-prajapati-55152b39a)
+
+---
+
+### 📈 Always learning, always building. Let's collaborate! 🚀
+
 </div>
