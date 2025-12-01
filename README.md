@@ -89,7 +89,7 @@ I'm a passionate **Data Scientist in the Making** with a mission to build **prod
 - Model card, technical report, and deployment docs included
 - GitHub Actions CI/CD for automated testing
 
-🔗 [Live Demo](https://github.com/Jaimin-prajapati-ds) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds) | 📊 [API Docs](https://github.com/Jaimin-prajapati-ds)
+🔗 [Live Demo](https://ds-advanced-fraud-detection.streamlit.app/) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds/ds-advanced-fraud-detection) | 📊 [View README](https://github.com/Jaimin-prajapati-ds/ds-advanced-fraud-detection#readme)
 
 ---
 
@@ -105,23 +105,38 @@ I'm a passionate **Data Scientist in the Making** with a mission to build **prod
 
 **Tech Stack**: Python | XGBoost | Pandas | Matplotlib | Seaborn | Streamlit
 
-🔗 [Live Demo](https://github.com/Jaimin-prajapati-ds) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds)
+🔗 [Live Demo](https://clv-prediction-system.streamlit.app/) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds/clv-prediction-system)
 
 ---
 
-### 3. 🌍 [Environmental Analytics Dashboard](https://github.com/Jaimin-prajapati-ds)
+### 3. 🕵️ [Transaction Anomaly Detection System](https://github.com/Jaimin-prajapati-ds/transaction-anomaly-detection)
 
-**Goal**: Analyze environmental impact and sustainability metrics with interactive visualizations.
+**Problem**: Financial institutions face billions in losses from fraudulent transactions.
 
-**Key Features**:
-- 🗺️ Geospatial analysis with interactive maps
-- 📉 Time series analysis of environmental trends
-- 📊 Beautiful data visualizations with Plotly
-- 🚀 Deployed on Streamlit Cloud
+**Solution Highlights**:
+- ✅ **Isolation Forest & Autoencoders** for unsupervised anomaly detection
+- 📈 **Real-time monitoring** with Streamlit dashboard
+- 🎯 **95%+ detection accuracy** on unseen anomalous patterns
+- 📉 **Statistical methods** for pattern analysis
 
-**Tech Stack**: Python | Pandas | Plotly | Folium | Streamlit
+**Tech Stack**: Python | Scikit-Learn | TensorFlow | Streamlit
+🔗 [Live Demo](https://transaction-anomaly-detection.streamlit.app/) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds/transaction-anomaly-detection)
 
-🔗 [Live Demo](https://github.com/Jaimin-prajapati-ds) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds)
+---
+
+### 4. 📞 [Customer Churn Prediction System](https://github.com/Jaimin-prajapati-ds/ds-customer-churn-prediction)
+
+**Business Challenge**: Telecom companies lose customers to competition, impacting revenue.
+
+**Solution Highlights**:
+- ✅ **90%+ accuracy** in predicting customer churn
+- 📈 **Feature engineering** for customer behavior analysis
+- 🎯 **Stratified K-Fold** cross-validation
+- 📊 **Interactive dashboard** for business insights
+
+**Tech Stack**: Python | Scikit-Learn | XGBoost | Pandas | Streamlit
+
+🔗 [Live Demo](https://ds-customer-churn-prediction.streamlit.app/) | 📄 [GitHub Repo](https://github.com/Jaimin-prajapati-ds/ds-customer-churn-prediction)
 
 ---
 
